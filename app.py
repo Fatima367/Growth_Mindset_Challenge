@@ -101,7 +101,7 @@ def main():
         - Share your knowledge with others
         """)
         
-        st.header("📖 About")
+        st.header("📌 About")
         st.write("""
         This tool helps you convert various file formats while embracing 
         the growth mindset philosophy. Keep learning and growing!
