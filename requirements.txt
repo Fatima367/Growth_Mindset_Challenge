@@ -1,0 +1,7 @@
+streamlit
+fpdf
+Pillow
+python-docx
+docx2pdf
+
+#pip install -r requirements.txt
