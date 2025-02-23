@@ -184,7 +184,7 @@ def main():
             st.markdown('</div>', unsafe_allow_html=True)
             
             if image_file is not None:
-                st.image(image_file, caption="Preview", use_column_width=True)
+                st.image(image_file, caption="Preview", use_container_width=True)
                 
                 if st.button("Convert to PDF 📄"):
                     with st.spinner('Converting your image to PDF...'):
